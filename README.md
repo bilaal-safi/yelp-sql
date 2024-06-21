@@ -27,9 +27,9 @@ This section focuses on:
 # SQL Code
 The repository includes SQL queries used for data analysis and profiling. Each query is accompanied by its results and brief explanations.
 
-#Data Source
+# Data Source
 - The analysis is based on the Yelp dataset, which includes information about businesses, reviews, users, and more.
--ER Diagram of Yelp Dataset is attached with the name ERD_Yelp_Dataset.PNG
+- ER Diagram of Yelp Dataset is attached with the name ERD_Yelp_Dataset.PNG
 ## References
 
  -  Coursera
